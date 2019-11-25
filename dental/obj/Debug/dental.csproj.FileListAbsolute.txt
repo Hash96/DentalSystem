@@ -1,0 +1,14 @@
+C:\Users\Hashm\source\repos\dental\dental\bin\Debug\dental.exe.config
+C:\Users\Hashm\source\repos\dental\dental\bin\Debug\dental.exe
+C:\Users\Hashm\source\repos\dental\dental\bin\Debug\dental.pdb
+C:\Users\Hashm\source\repos\dental\dental\obj\Debug\dental.csprojAssemblyReference.cache
+C:\Users\Hashm\source\repos\dental\dental\obj\Debug\dental.Form1.resources
+C:\Users\Hashm\source\repos\dental\dental\obj\Debug\dental.Properties.Resources.resources
+C:\Users\Hashm\source\repos\dental\dental\obj\Debug\dental.csproj.GenerateResource.cache
+C:\Users\Hashm\source\repos\dental\dental\obj\Debug\dental.csproj.CoreCompileInputs.cache
+C:\Users\Hashm\source\repos\dental\dental\obj\Debug\dental.exe
+C:\Users\Hashm\source\repos\dental\dental\obj\Debug\dental.pdb
+C:\Users\Hashm\source\repos\dental\dental\obj\Debug\dental.Form2.resources
+C:\Users\Hashm\source\repos\dental\dental\obj\Debug\dental.DoctorLogin.resources
+C:\Users\Hashm\source\repos\dental\dental\obj\Debug\dental.Form3.resources
+C:\Users\Hashm\source\repos\dental\dental\obj\Debug\dental.LabAssistantLogin.resources
